@@ -64,7 +64,7 @@ html {
 .site-header .header-title {
   animation: clear 0.8s 0.4s forwards;
   transform: translateY(10rem);
-  opacity: 0;
+  opacity: 0.40;
 }
 
 .site-header .header-subtitle {
